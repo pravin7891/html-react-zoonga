@@ -1,0 +1,98 @@
+{
+    "tickets" :[ 
+        {
+           "id":1,
+           "eventname":"JamshedpurFC - ISL Season 4",
+           "eventslug":"bookings/JamshedpurFC-ISLS4",
+           "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+           "eventDate" : "30 May 2019",
+           "eventTicketsFrom":"INR 1000 - 8000",
+           "eventVenue":"JRD Tata Sports Complex, Bhubaneshwar, Jamshedpur",
+           "eventAttendants":[
+               "user1","user2","user3"
+           ],
+           "socials" : {
+                "facebook":"https://www.facebook.com/event1",
+               "twitter":"https://www.twitter.com/event1",
+               "linkedin":"https://www.linkedin.com/event1"
+           }
+       },
+       {
+        "id":2,
+        "eventname":"ICC Cricket World Cup 2019 - ODI 1 ENG VS SA",
+        "eventslug":"bookings/icc-wc2019-odi1-eng-vs-sa",
+        "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+        "eventDate" : "30 May 2019, 3:00 PM",
+        "eventTicketsFrom":"INR 1000 - 9500",
+        "eventVenue":"The Oval",
+        "eventAttendants":["user2"],
+        "socials" : {
+             "facebook":"https://www.facebook.com/event2",
+            "twitter":"https://www.twitter.com/event2",
+            "linkedin":"https://www.linkedin.com/event2"
+        }
+    },
+    {
+        "id":3,
+        "eventname":"ICC Cricket World Cup 2019 - ODI 2 WI VS PAK",
+        "eventslug":"bookings/icc-wc2019-odi2-wi-vs-pak",
+        "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+        "eventDate" : "31 May 2019, 3:00 PM",
+        "eventTicketsFrom":"INR 1000 - 9000",
+        "eventVenue":"The Oval",
+        "eventAttendants":[],
+        "socials" : {
+             "facebook":"https://www.facebook.com/even3",
+            "twitter":"https://www.twitter.com/event3",
+            "linkedin":"https://www.linkedin.com/event3"
+        }
+    },
+    {
+        "id":4,
+        "eventname":"ICC Cricket World Cup 2019 - ODI 3 NZ VS SL",
+        "eventslug":"bookings/icc-wc2019-odi3-nz-vs-sl",
+        "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+        "eventDate" : "01 Jun 2019, 3:00 PM",
+        "eventTicketsFrom":"INR 1000 - 12000",
+        "eventVenue":"Sophia Garden",
+        "eventAttendants":[],
+        "socials" : {
+             "facebook":"https://www.facebook.com/event4",
+            "twitter":"https://www.twitter.com/event4",
+            "linkedin":"https://www.linkedin.com/event4"
+        }
+    },
+    {
+        "id":5,
+        "eventname":"ICC Cricket World Cup 2019 - ODI 4 AFG VS AUS",
+        "eventslug":"bookings/icc-wc2019-odi4-afg-vs-aus",
+        "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+        "eventDate" : "01 Jun 2019, 3:00 PM",
+        "eventTicketsFrom":"INR 1000 - 9500",
+        "eventVenue":"Bristol County Ground",
+        "eventAttendants":[
+            "user1","user3"
+        ],
+        "socials" : {
+             "facebook":"https://www.facebook.com/event5",
+            "twitter":"https://www.twitter.com/event5",
+            "linkedin":"https://www.linkedin.com/event5"
+        }
+    },
+    {
+        "id":6,
+        "eventname":"ICC Cricket World Cup 2019 - ODI 5 SA VS BN",
+        "eventslug":"bookings/icc-wc2019-odi5-sa-vs-bn",
+        "eventimg":"http://54.149.90.101/EventBuilder/Images/sport/ht-isl-jfc.gif",
+        "eventDate" : "02 Jun 2019, 3:00 PM",
+        "eventTicketsFrom":"INR 1000 - 11500",
+        "eventVenue":"The Oval",
+        "eventAttendants":[],
+        "socials" : {
+             "facebook":"https://www.facebook.com/event6",
+            "twitter":"https://www.twitter.com/event6",
+            "linkedin":"https://www.linkedin.com/event6"
+        }
+    }
+    ]
+   }
